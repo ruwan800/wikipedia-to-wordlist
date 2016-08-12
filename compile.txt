@@ -1,0 +1,43 @@
+
+
+w1.py	==> wt0.txt	 : Replace all useless text,numaric,punctuation charcters into spaces
+w2.py	==> wt1.txt	 : Create word list by removing odd characters and multiple occurences of space and linefeed
+w3.py	==> wt2.txt	 : Recreate word list only with words which contain atleast one sinhala charcter
+w8.py	==> wt3.txt	 : Remove words which contain error characters
+w10.py	==> wt4.txt  : Remove wrong occurences of ZWJ
+w20.py	==> wt8.txt  : Write distinct words ordered(descending) by their frequencies
+w21.py	==> wt9.txt  : Remove vowel doubles
+w22.py	==> wt10.txt : Replace Sinhala characters by English characters
+w23.py	==> wt11.txt : Create consonent list
+w24.py	==> wt12.txt : Create vowel list
+w25.py	==> wt13.txt : Create complexity factor list
+w26.py	==> vadan.sqlite : All Done. database created
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+w17.py	==> wt6.txt : Create the word list contain distinct words and their frequencies
+
+w18.py	==> wt7.txt : Join wt5.txt and ucsc.txt and Create word list contain distinct words and their frequencies

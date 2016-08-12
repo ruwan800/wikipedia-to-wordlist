@@ -1,0 +1,4 @@
+zwj non errors:
+	.+ZWJ+ra	\u0dca\u200d\u0dbb 
+	.+ZWJ+ya	u'\u0dca\u200d\u0dba'
+	.+ZWJ+SHa	u'\u0d9a\u0dca\u200d\u0dc2'
